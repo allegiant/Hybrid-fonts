@@ -1,5 +1,8 @@
 # Programming-fonts
-  Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fonts
+
+Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fonts
+
+[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
 ### *FiraCode QiHei Nerd Font*
 Builded with
@@ -14,3 +17,5 @@ Builded with:
 - 微软雅黑-Regular
 - All glyphs and icons from [ryanoasis / nerd-fonts](https://nerdfonts.com/)
 - [Noto Emoji](http://www.fontspace.com/google/noto-emoji)
+
+斜体还是过阵子再搞吧。。太tm累了
