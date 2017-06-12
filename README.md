@@ -13,14 +13,17 @@ _Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fon
 ***
 
 ### DejaVuSansMono YaHei Nerd Font
-> 字形宽大圆润，非常耐看，支持更多的 Unicode 字符，拥有更大的图标符号
+> 字形宽阔圆润，非常耐看，支持更多的 Unicode 字符，拥有更大的图标符号
 
 #### *Builded with:*
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/)-Regular
 - 微软雅黑-Regular
 - All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/)
-- [Noto Emoji](http://www.fontspace.com/google/noto-emoji)
+- Samsung Emoji
 ***
+
+### Screenshot
+- See [Image](img)
 
 ### Change Log
 - See [Changelog.md](Changelog.md)
