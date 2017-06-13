@@ -9,7 +9,7 @@ _Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fon
 #### *Builded with:*
 - [FiraCode](https://github.com/tonsky/FiraCode)-Regular
 - [汉仪旗黑-55S](http://www.hanyi.com.cn/productdetail.php?id=832)
-- All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/)
+- All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/) (Mono Edition)
 ***
 
 ### DejaVuSansMono YaHei Nerd Font
