@@ -1,6 +1,6 @@
 # ChangeLog
 
-## FiraCode QiHei Nerd Font
+## FiraCode QiHei NF
 
 > Date: 2017 / 6 / 12	_Version: 1.20_
 - 压缩所有图标至等宽
@@ -13,16 +13,28 @@
 - 添加部分必要字形，包括:
   + U+2630 ~ U+2637
   + U+2160 ~ U+216B (Roman numerals)
-  + U+2170 ~ U+2179 (Lower-case Roman numerals )
+  + U+2170 ~ U+2179 (Lower-case Roman numerals)
   + U+2103, U+2109 (Temperature symbol)
   + U+2387 (Branch symbol)
   + 以及一些数学符号和箭头
 ***
 
-## DejaVuSansMono YaHei Nerd Font
+> Date: 2017 / 6 / 15	_Version: 1.22_
+- 字族名简化为 FiraCode QiHei NF
+- 新增粗体和伪斜体 (粗体改自官方版本，伪斜体改自常规体倾斜11度)
+- 个别字形取整
+***
+
+## DejaVuSansMono YaHei NF
 
 > Date: 2017 / 6 / 13	_Version: 2.41_
 - 进一步扩充 Unicode 字符
 - 整合 DejaVu Sans Condensed 及 Arial Unicode MS 中的部分符号
 - 修复大量宽度异常的字形
 - 去除 Noto Emoji 并更改为 Samsung Emoji
+***
+
+> Date: 2017 / 6 / 15	_Version: 2.42_
+- 字族名简化为 DejaVuSansMono YaHei NF
+- 新增粗体和伪斜体 (均改自官方版本，伪斜体中小写 `f` 做过改动)
+***
