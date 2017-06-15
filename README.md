@@ -5,6 +5,7 @@ _Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fon
 
 ### FiraCode QiHei NF
 > _Fullname: FiraCode HYQiHei-55S Nerd Font_
+
 > 字形清晰硬朗，支持连体运算符（仅部分IDE或编辑器），Windows 下效果同样很棒
 
 #### *Builded with:*
@@ -15,6 +16,7 @@ _Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fon
 
 ### DejaVuSansMono YaHei NF
 > _Fullname: DejaVuSansMono YaHei Nerd Font_
+
 > 字形宽阔圆润，非常耐看，支持更多的 Unicode 字符以及更大的图标符号
 
 #### *Builded with:*
