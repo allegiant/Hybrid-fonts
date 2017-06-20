@@ -1,11 +1,9 @@
 # Programming-fonts
-_Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fonts_
+_Hybrid Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fonts_
 
 [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
 ### FiraCode QiHei NF
-> _Fullname: FiraCode HYQiHei-55S Nerd Font_
-
 > 字形清晰硬朗，支持连体运算符（仅部分IDE或编辑器），Windows 下效果同样很棒
 
 #### *Builded with:*
@@ -15,8 +13,6 @@ _Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fon
 ***
 
 ### DejaVuSansMono YaHei NF
-> _Fullname: DejaVuSansMono YaHei Nerd Font_
-
 > 字形宽阔圆润，非常耐看，支持更多的 Unicode 字符以及更大的图标符号
 
 #### *Builded with:*
@@ -36,3 +32,10 @@ _Monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fon
 
 ### The OFL-1.1 License
 - Copyright (c) 2017, yk (m8524769@163.com)
+***
+
+暂不支持西文粗斜体和中文的粗体，因为感觉没什么太大必要，等以后有精力再折腾吧  \_(:з」∠)_
+
+用 Windows 的小伙伴就不推荐用 DejaVu 的字体了，因为效果会差很多。。╮(￣▽￣)╭
+
+另外，由于中文字形并不是西文的严格两倍宽（中文稍窄一些），所以有些编辑器会出现中文集体靠左的情况，不用担心，这是硬伤没办法解决的。。。实际上大部分情况下不会出现这种问题，如果接受不了的话就去调 Fallback 吧。。虽然那样会比较麻烦
