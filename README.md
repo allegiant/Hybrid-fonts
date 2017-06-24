@@ -1,4 +1,4 @@
-# Programming-fonts
+# Hybrid-fonts
 _Hybrid monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fonts_
 
 [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
