@@ -1,5 +1,4 @@
 # Hybrid-fonts
-_Hybrid monospaced fonts patched with Chinese characters and extra glyphs from Nerd Fonts_
 
 [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
@@ -10,6 +9,7 @@ _Hybrid monospaced fonts patched with Chinese characters and extra glyphs from N
 - [FiraCode](https://github.com/tonsky/FiraCode)-Regular/Bold
 - [汉仪旗黑-55S](http://www.hanyi.com.cn/productdetail.php?id=832)
 - All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/) (Mono Edition)
+
 ***
 
 ### DejaVuSansMono YaHei NF
@@ -22,6 +22,7 @@ _Hybrid monospaced fonts patched with Chinese characters and extra glyphs from N
 - Arial Unicode MS-Regular
 - All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/)
 - Samsung Emoji
+
 ***
 
 ### Screenshot
@@ -32,6 +33,7 @@ _Hybrid monospaced fonts patched with Chinese characters and extra glyphs from N
 
 ### The OFL-1.1 License
 - Copyright (c) 2017, yk (m8524769@163.com)
+
 ***
 
 **Windows 用户注意:** 由于中文部分均去除了 hinting 信息，所以该字体在低分屏上或是 Legacy app 上会出现明显的渲染问题。如果你在使用过程中出现此问题，强烈建议使用 [MacType](http://www.mactype.net/) 进行字体渲染，同时也能改进西文的显示效果，其实没有渲染问题也很推荐这个神器（不是广告），具体怎么用就不赘述了
