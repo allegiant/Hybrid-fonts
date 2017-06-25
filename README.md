@@ -26,7 +26,7 @@
 ***
 
 ### Screenshot
-- See [Image](img)
+- See [Image](https://github.com/m8524769/Hybrid-fonts/tree/master/img)
 
 ### Change Log
 - See [Changelog.md](Changelog.md)
