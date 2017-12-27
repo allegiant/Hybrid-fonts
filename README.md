@@ -1,6 +1,6 @@
 # Hybrid-fonts
 
-[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
 ### FiraCode QiHei NF
 > 字形清晰硬朗，支持连体运算符（仅部分IDE或编辑器），Windows 下效果同样很棒
@@ -17,7 +17,7 @@
 
 #### *Builded with:*
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/)-Regular/Bold/Oblique
-- 微软雅黑 v6.21-Regular
+- 微软雅黑 v6.25-Regular
 - DejaVu Sans Condensed-Regular
 - Arial Unicode MS-Regular
 - All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/)
