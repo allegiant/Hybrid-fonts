@@ -59,3 +59,11 @@
 - 更新微软雅黑字形版本至 6.25 (2017 Windows 10 秋季创意者更新)
 
 ***
+
+## InconsolataGo QiHei NF
+
+> Date: 2018 / 1 / 22 _Version: 1.10_
+- 创建 InconsolataGo QiHei NF-Regular/Bold
+- 新增伪斜体 (改自常规体倾斜11度)
+
+***
